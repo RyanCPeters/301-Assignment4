@@ -1774,7 +1774,7 @@ video {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background: url("craterLake.jpg") no-repeat 60% 100%;
+    background: url("craterLake.jpg") no-repeat -1.1% 100%;
 }
 
 #ryanFace-2 {
@@ -1919,7 +1919,7 @@ video {
 
 .copy h3, .copy h2.h3, .two-column-copy-left h3, .two-column-copy-right h3 {
     color: #b7a57a;
-    text-align: center
+    text-align: left
 }
 
 .two-column-image-margin {
@@ -2063,14 +2063,14 @@ blockquote p.quote span:after {
 blockquote cite p {
     font-size: 13px;
     padding: 0 1px;
-    color: #4B2E83
+    color: #b7a57a
 }
 
 blockquote cite p span {
     font-family: "Encode Sans Normal", sans-serif;
     font-weight: 900;
     font-size: 17px;
-    color: #4B2E83
+    color: #b7a57a
 }
 
 iframe {

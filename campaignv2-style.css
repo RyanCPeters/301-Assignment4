@@ -2351,9 +2351,7 @@ a.cv2-header-home {
     text-indent: -9999px;
     overflow: hidden;
     z-index: 1;
-    background-image: url('../img/uw.svg');
-    background-repeat: no-repeat;
-    background-position: 0 105px
+    background: url('http://www.washington.edu/wp-content/themes/be-boundless/campaign/img/uw.svg') no-repeat 0 105px;
 }
 
 a.cv2-header-home:active, a.cv2-header-home:hover, a.cv2-header-home:focus {
